@@ -1,0 +1,294 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Closing non existing polygon." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermeture de polygone non-existant"
+          }
+        }
+      }
+    },
+    "Complete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terminé"
+          }
+        }
+      }
+    },
+    "Could not create CGImage from palette image." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de création d'image  CGImage à partir d’une image palette."
+          }
+        }
+      }
+    },
+    "Could not create palette image." : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Palettenbild könnte nicht erstellt werden"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de création d'image palette."
+          }
+        }
+      }
+    },
+    "Could not create Provider for data: %lld bytes." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de création de “Provider” pour %lld octets de donnée."
+          }
+        }
+      }
+    },
+    "Could not create RGB bitmap from %lld bytes." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error création de bitmap RGB pour %lld octets de données."
+          }
+        }
+      }
+    },
+    "Ending non existing polygon." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fermeture d'un polygone non-existant."
+          }
+        }
+      }
+    },
+    "Export file" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exporter un fichier."
+          }
+        }
+      }
+    },
+    "Failed build print operation" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druck operation gescheitert"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de création d'opération d'impression."
+          }
+        }
+      }
+    },
+    "Failed parsing MacPaint file" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de décodage d’un fichier MacPaint"
+          }
+        }
+      }
+    },
+    "Failed parsing QuickDraw file" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de décodage de Fichier QuickDraw"
+          }
+        }
+      }
+    },
+    "Failed parsing QuickTime file" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de décodage de Fichier QuickTime"
+          }
+        }
+      }
+    },
+    "Failed reading string" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de lecture de chaîne de caractère"
+          }
+        }
+      }
+    },
+    "Failed rendering picture" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de rendu de l'image"
+          }
+        }
+      }
+    },
+    "Failed to generate PDF document" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Échec de génération de document PDF."
+          }
+        }
+      }
+    },
+    "Incomplete" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Incomplet"
+          }
+        }
+      }
+    },
+    "Invalid data" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Données invalides"
+          }
+        }
+      }
+    },
+    "License" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "License"
+          }
+        }
+      }
+    },
+    "No ICC data for iccBegin" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune donnée pour commentaire iccBegin"
+          }
+        }
+      }
+    },
+    "No ICC data for iccContinuation" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aucune donnée pour commentaire iccContinuation"
+          }
+        }
+      }
+    },
+    "Print" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Druck"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impression"
+          }
+        }
+      }
+    },
+    "QuickDraw Viewer Project" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Projet QuickDraw Viewer"
+          }
+        }
+      }
+    },
+    "QuickDrawCGRenderer" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "QuickDrawCGRenderer"
+          }
+        }
+      }
+    },
+    "Reading header" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lecture de l'en-tête"
+          }
+        }
+      }
+    },
+    "Unexpected end-of-file" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fin de fichier inopinée."
+          }
+        }
+      }
+    },
+    "Unknown" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inconnu"
+          }
+        }
+      }
+    },
+    "Unknown image type" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image de type inconnu"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

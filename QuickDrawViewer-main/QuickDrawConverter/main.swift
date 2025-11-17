@@ -1,0 +1,48 @@
+//
+//  main.swift
+//  QuickDrawConverter
+//
+//  Created by Matthias Wiesmann on 12.08.2025.
+//
+
+import Foundation
+
+func loadFileFromLocalPath(_ localFilePath: String) ->Data? {
+  return try? Data(contentsOf: URL(fileURLWithPath: localFilePath))
+}
+
+func stdOutWrite(_ string: String) {
+  try! FileHandle.standardOutput.write(contentsOf: Data(string.utf8))
+}
+
+func stdErrWrite(_ string: String) {
+  try! FileHandle.standardError.write(contentsOf: Data(string.utf8))
+}
+
+for argument in CommandLine.arguments.dropFirst() {
+    
+    if argument == "-" {
+        let data = FileHandle.standardInput.readDataToEndOfFile();
+        do {
+            let parser = try QDParser(data: data);
+            let picture = try parser.parse();
+            let pdfData = picture.pdfData();
+            try FileHandle.standardOutput.write(contentsOf: pdfData);
+        } catch {
+            stdErrWrite("Error \(error) while converting");
+        }
+        exit(0)
+    }else{
+        if let data = loadFileFromLocalPath(argument) {
+            do {
+                let parser = try QDParser(data: data);
+                parser.filename = argument;
+                let picture = try parser.parse();
+                let pdfData = picture.pdfData();
+                try pdfData.write(to: URL(fileURLWithPath: picture.pdfFilename), options: .atomic);
+            } catch {
+                stdErrWrite("Error \(error) while converting \(argument)");
+            }
+        }
+    }
+}
