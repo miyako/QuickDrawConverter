@@ -1,0 +1,11 @@
+[
+	{
+		"line": 7,
+		"method": {
+			"type": 10,
+			"className": "_QuickDrawConverter_Controller",
+			"functionName": "onData",
+			"methodPath": "/SOURCES/Classes/_QuickDrawConverter_Controller.4dm"
+		}
+	}
+]

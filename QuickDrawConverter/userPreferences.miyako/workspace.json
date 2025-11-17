@@ -1,0 +1,33 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483629,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "QuickDrawConverter",
+				"methodPath": "/SOURCES/Classes/QuickDrawConverter.4dm"
+			}
+		},
+		{
+			"type": "explorer"
+		},
+		{
+			"type": "method",
+			"id": 2147483645,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "_QuickDrawConverter_Controller",
+				"methodPath": "/SOURCES/Classes/_QuickDrawConverter_Controller.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483647,
+			"codeDescriptor": {
+				"type": 1,
+				"methodName": "onResponse"
+			}
+		}
+	]
+}

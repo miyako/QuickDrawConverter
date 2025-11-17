@@ -1,0 +1,59 @@
+{
+	"Sources/Classes/QuickDrawConverter.4dm": {
+		"startSelection": 31,
+		"endSelection": 31,
+		"firstSelectedLine": 37,
+		"lastSelectedLine": 37,
+		"folding": [
+			10,
+			14
+		],
+		"bookmarks": [],
+		"stamp": "2025-11-17T23:38:36.191Z"
+	},
+	"Sources/Classes/_QuickDrawConverter_Controller.4dm": {
+		"startSelection": 73,
+		"endSelection": 73,
+		"firstSelectedLine": 22,
+		"lastSelectedLine": 22,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-11-17T23:40:10.095Z"
+	},
+	"Sources/Classes/_CLI.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-09-29T13:00:33.903Z"
+	},
+	"Sources/Classes/_CLI_Controller.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-10-01T11:39:44.608Z"
+	},
+	"Sources/Methods/TEST_QuickDrawConverter.4dm": {
+		"startSelection": 0,
+		"endSelection": 7,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 27,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-11-17T23:40:10.092Z"
+	},
+	"Sources/Methods/onResponse.4dm": {
+		"startSelection": 22,
+		"endSelection": 22,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2025-11-17T23:39:06.007Z"
+	}
+}

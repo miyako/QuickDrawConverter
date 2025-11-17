@@ -1,0 +1,38 @@
+{
+	"Sources/Classes/QuickDrawConverter.4dm": {
+		"left": 728,
+		"top": 357,
+		"width": 965,
+		"height": 713
+	},
+	"Sources/Classes/_QuickDrawConverter_Controller.4dm": {
+		"left": 573,
+		"top": 493,
+		"width": 965,
+		"height": 713
+	},
+	"Sources/Classes/_CLI.4dm": {
+		"left": 467,
+		"top": 149,
+		"width": 965,
+		"height": 713
+	},
+	"Sources/Classes/_CLI_Controller.4dm": {
+		"left": 467,
+		"top": 149,
+		"width": 965,
+		"height": 713
+	},
+	"Sources/Methods/TEST_QuickDrawConverter.4dm": {
+		"left": 244,
+		"top": 179,
+		"width": 965,
+		"height": 713
+	},
+	"Sources/Methods/onResponse.4dm": {
+		"left": 578,
+		"top": 655,
+		"width": 965,
+		"height": 713
+	}
+}

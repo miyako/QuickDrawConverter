@@ -1,0 +1,17 @@
+{
+	"methods": {
+		"onResponse": {
+			"timeStamp": "2025-11-17T23:39:06Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		},
+		"TEST_QuickDrawConverter": {
+			"timeStamp": "2025-11-17T23:40:10Z",
+			"attributes": {
+				"invisible": true
+			}
+		}
+	}
+}
