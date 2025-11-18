@@ -25,8 +25,8 @@ Else
     
     $files:=Folder("/DATA/pict/").files(fk ignore invisible)
     
-    var $QuickDrawConverter : cs.QuickDrawConverter
-    $QuickDrawConverter:=cs.QuickDrawConverter.new()
+    var $QuickDrawConverter : cs.QuickDrawConverter.QuickDrawConverter
+    $QuickDrawConverter:=cs.QuickDrawConverter.QuickDrawConverter.new()
     
     /*
         file can be file, BLOB
